@@ -102,9 +102,7 @@ nav {
 /* "My Plans" styles */
 
 .my-plans {
-  /* margin-top: 130px; */
-  /* background-image: none; */
-  /* background-repeat: no-repeat; */
+
   font-weight: 700;
   margin-top: 215px;
   font-size: 40px;
@@ -135,10 +133,10 @@ nav {
   gap: 16px;
   margin-left: 3px;
   margin-right: 3px;
-  /* background-image: none; */
+
 }
 .skill-description {
-  /* background-image: none; */
+ 
   font-weight: 500;
   font-size: 25px;
   line-height: 29px;
@@ -159,9 +157,7 @@ nav {
     margin-bottom: 350px;
 }
 
-/* .grad-background{
-    background-image: none;
-} */
+
 
 /* contact section */
 
@@ -183,12 +179,19 @@ nav {
     color: #fcfcfc;
 }
 
+.heading{
+    padding-top: 75px;
+}
+.grad-img{
+    height: 100%;
+}
+
 .section-title{
     padding-top: 120px;
     text-align: left;
     margin-left: 150px;
     color: #fcfcfc;
-    /* background-image: none; */
+    
 
 }
 .section-title1{
@@ -197,12 +200,12 @@ nav {
     margin-left: 50px;
     color: #fcfcfc;
     margin-right: 70px;
-    /* background-image: none; */
+    
 
 }
 .icon{
     padding-left: 29px;
-    /* margin-left: 200px; */
+    
 }
 
 .info{
@@ -212,6 +215,9 @@ nav {
 
 .email{
     margin-left: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: #fcfcfc;
 }
 
 .footer-modify{
