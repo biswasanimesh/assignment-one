@@ -35,7 +35,23 @@ nav {
   font-size: 20px;
   line-height: 23px;
   color: #005fac;
-  margin-left: 827px;
+  margin-left: 1153px;
+
+}
+
+/* }button secondary "" Call Now*/
+.btn-secondary{
+    margin-top: -850px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    height: 64px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005fac;
+    margin-left: 115px;
+
 }
 
 /* My failures of previous year  class (.nav title)*/
@@ -78,6 +94,9 @@ nav {
   mix-blend-mode: multiply;
   margin-left: 100px;
 }
+.plan{
+    margin-bottom: 55px;
+}
 .skill{
     padding: 30px;
     margin-left: 30px;
@@ -101,3 +120,21 @@ nav {
   line-height: 29px;
   color: #f4eeee;
 }
+
+/* Gradient Sections */
+.grad{
+    background-image: none;
+}
+
+
+/* gradient */
+.gradient{
+    background-image: none;
+}
+.position{
+    margin-bottom: 350px;
+}
+
+/* .grad-background{
+    background-image: none;
+} */
