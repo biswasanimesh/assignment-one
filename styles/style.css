@@ -1,6 +1,6 @@
 /* header section */
-.header-bottom {
-}
+
+
 .header-style {
   list-style: none;
   color: #ffffff;
@@ -11,18 +11,23 @@
   font-size: 65px;
   font-family: "Open Sans", sans-serif;
   text-align: right;
-  margin-top: 15px;
+  /* margin-top: 15px; */
+  padding-top: 116px;
   margin-right: 150px;
+  margin-left: 780px;
 }
 .believe-para {
   text-align: right;
   font-weight: 400;
   font-size: 16px;
   margin-right: 150px;
+  /* margin-top: 115px; */
 }
 nav {
   display: flex;
 }
+
+/* Button Section */
 
 /* first button "Contact us" */
 .btn-primary {
@@ -36,12 +41,13 @@ nav {
   line-height: 23px;
   color: #005fac;
   margin-left: 1153px;
+  border: 0;
 
 }
 
-/* }button secondary "" Call Now*/
+/* }button secondary "Call Now...."*/
 .btn-secondary{
-    margin-top: -850px;
+    margin-top: -1850px;
     margin-bottom: 0px;
     border-radius: 5px;
     height: 64px;
@@ -51,8 +57,26 @@ nav {
     line-height: 23px;
     color: #005fac;
     margin-left: 115px;
+    border: 0;
+}
+/* Here Subscribe Button Styles*/
+.btn-subscribe{
+    margin-top: 65px;
+    margin-right: 250px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    height: 64px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #005fac;
+    margin-left: 75px;
+    border: 0;
 
 }
+
 
 /* My failures of previous year  class (.nav title)*/
 .nav-title {
@@ -140,12 +164,62 @@ nav {
 } */
 
 /* contact section */
+
+.bg-image{
+    background-image: none;
+}
+
 .contact{
     text-align: left;
-    /* background-image: none; */
+    display: flex;
+    gap: 0px;
+
 }
-.section{
+/* width-setup class */
+
+.width-setup{
+    margin-right: 500px;
+    margin-left: 150px;
+    color: #fcfcfc;
+}
+
+.section-title{
+    padding-top: 120px;
     text-align: left;
+    margin-left: 150px;
+    color: #fcfcfc;
     /* background-image: none; */
 
 }
+.section-title1{
+    padding-top: 12px;
+    text-align: left;
+    margin-left: 50px;
+    color: #fcfcfc;
+    margin-right: 70px;
+    /* background-image: none; */
+
+}
+.icon{
+    padding-left: 29px;
+    /* margin-left: 200px; */
+}
+
+.info{
+    margin-left: 72px;
+    margin-top: 29px;
+}
+
+.email{
+    margin-left: 75px;
+}
+
+.footer-modify{
+    margin-top: 200px;
+}
+.footer-header{
+    margin-top: 135px;
+    color: #fcfcfc;
+    margin-left: 75px;
+}
+
