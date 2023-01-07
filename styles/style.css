@@ -1,0 +1,64 @@
+/* header section */
+.header-bottom {
+}
+.header-style {
+  list-style: none;
+  color: #ffffff;
+}
+
+.believe {
+  font-weight: 700;
+  font-size: 65px;
+  font-family: "Open Sans", sans-serif;
+  text-align: right;
+  margin-top: 15px;
+  margin-right: 150px;
+}
+.believe-para {
+  text-align: right;
+  font-weight: 400;
+  font-size: 16px;
+  margin-right: 150px;
+}
+nav{
+    display: flex;
+
+}
+
+/* first button "Contact us" */
+.btn-primary {
+    margin-top: 20px;
+  margin-bottom: 250px;
+  border-radius: 5px;
+  height: 64px;
+  width: 160px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  color: #005fac;
+  margin-left: 1150px;
+  
+}
+
+/* My failures of previous year  class (.nav title)*/
+.nav-title {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+/* background Image */
+body {
+    background-repeat: no-repeat;
+  }
+.back-image{
+    background-image: none;
+    margin-top: 239px;
+    margin-left: 177px;
+    margin-right: 350px;
+}
+.back-images{
+    background-image: none;
+}
+
