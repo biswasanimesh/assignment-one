@@ -20,14 +20,13 @@
   font-size: 16px;
   margin-right: 150px;
 }
-nav{
-    display: flex;
-
+nav {
+  display: flex;
 }
 
 /* first button "Contact us" */
 .btn-primary {
-    margin-top: 20px;
+  margin-top: 20px;
   margin-bottom: 250px;
   border-radius: 5px;
   height: 64px;
@@ -36,8 +35,7 @@ nav{
   font-size: 20px;
   line-height: 23px;
   color: #005fac;
-  margin-left: 1150px;
-  
+  margin-left: 827px;
 }
 
 /* My failures of previous year  class (.nav title)*/
@@ -50,13 +48,50 @@ nav{
 
 /* background Image */
 
-.back-image{
-    background-image: none;
-    margin-top: 239px;
-    margin-left: 177px;
-    margin-right: 350px;
+.back-image-info {
+  background-image: none;
+  margin-top: 239px;
+  margin-left: 87px;
+  margin-right: 357px;
 }
-.back-images{
-    background-image: none;
+.back-images {
+  background-image: none;
+  margin-left: 171px;
 }
 
+/* "My Plans" styles */
+
+.my-plans {
+  /* margin-top: 130px; */
+  /* background-image: none; */
+  /* background-repeat: no-repeat; */
+  font-weight: 700;
+  margin-top: 357px;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+}
+.skill-container {
+  display: flex;
+  background-image: none;
+  mix-blend-mode: multiply;
+}
+.skill{
+    padding: 30px;
+
+}
+.skill-title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+  line-height: 35px;
+  gap: 16px;
+  /* background-image: none; */
+}
+.skill-description {
+  /* background-image: none; */
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  color: #737272;
+}
